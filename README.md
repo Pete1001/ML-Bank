@@ -28,7 +28,7 @@ The notebook includes detailed workflows, reusable functions, and visualizations
 1. Clone the repository:
    ```bash
    git clone https://github.com/Pete1001/ML-Bank.git
-   cd mlbank-analysis
+   cd ml-bank
    ```
 2. Install dependencies:
    ```bash

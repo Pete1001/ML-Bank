@@ -162,3 +162,18 @@ This project is licensed under the MIT License by MLBank. See the [LICENSE](LICE
 
 ## Acknowledgments
 Special thanks to the MLBank team for the dataset and open-source libraries that enable this project.
+
+## References
+Chi Square - https://docs.scipy.org/doc/scipy/reference/generated/scipy.stats.chisquare.html
+Chi2 - https://scikit-learn.org/stable/modules/generated/sklearn.feature_selection.chi2.html
+Loan approval prediction - https://defisolutions.com/general-news/loan-approval-prediction-using-machine-learning/
+Loan approval prediction - https://www.geeksforgeeks.org/loan-approval-prediction-using-machine-learning/
+Exploratory data analysis - https://www.kaggle.com/code/santhraul/bank-loan-exploratory-data-analysis
+Bank Risk - https://corporatefinanceinstitute.com/resources/career-map/sell-side/risk-management/major-risks-for-banks/#:~:text=The%20major%20risks%20faced%20by,%2C%20market%2C%20and%20liquidity%20risks
+Bank Risk - https://www.fdic.gov/resources/supervision-and-examinations/examination-policies-manual/section2-1.pdf
+Kolmogorov-Smirnov Test - https://en.wikipedia.org/wiki/Kolmogorov%E2%80%93Smirnov_test
+Kolmogorov-Smirnov Test - https://reference.wolfram.com/language/ref/KolmogorovSmirnovTest.html
+Message Box - https://docs.python.org/3/library/tkinter.messagebox.html
+Tkinter - https://www.geeksforgeeks.org/python-tkinter-entry-widget/
+
+Note: This assignment was completed with the assistance of Xpert Learning Assistant and previous class work examples.
